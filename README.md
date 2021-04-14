@@ -1,8 +1,6 @@
 ## Hola Mundo 
 
 
-
-
 ```markdown
 Syntax highlighted code block
 
